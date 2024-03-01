@@ -1,2 +1,2 @@
 # bmi_calculator
-An app which calcuates BMI
+A simple BMI calculator app developed using Flutter
